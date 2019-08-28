@@ -1,0 +1,8 @@
+MNA24	Popescu		12345.3
+QOI76	Antonescu	2398.32
+DRE19	Calinescu	1223.6
+ABD18	Georgescu	6500.3
+ERT65	Vasilescu	1200.8
+ZET32	Zaharescu	32000.5
+EAT32	Petrescu	2345.2
+EFT34	Iliescu		2345.1

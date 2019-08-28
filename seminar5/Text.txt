@@ -1,0 +1,5 @@
+Ionescu		5
+Popescu		10
+Georgescu	10
+Antonescu	5
+Gavrilescu	5
